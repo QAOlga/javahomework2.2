@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлен дефект:
-* [Некорректно отображается сумма бонуса](https://github.com/OlgaMikhaylyukova/javahomework2.1/issues/1)
+* [Некорректно рассчитывается сумма бонуса](https://github.com/OlgaMikhaylyukova/javahomework2.1/issues/1)
 
 
 ## Описание процесса тестирования
